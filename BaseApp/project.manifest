@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+        {
+            "name": "App1"
+        },
+        {
+            "name": "MicroApp2"
+        }
+    ]
+}

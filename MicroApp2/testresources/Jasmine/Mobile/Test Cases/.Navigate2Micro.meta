@@ -1,0 +1,63 @@
+{
+    "testCaseName": "Navigate2Micro",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Home.Button0jb8aceabbbf546",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "dff0c8db-fc7a-b0e7-fb20-0eead05ed06d",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "Home.Button0jb8aceabbbf546"
+                    },
+                    "appName": "BaseApp"
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "Home.Button0jb8aceabbbf546",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "Home.Button0jb8aceabbbf546",
+                    "widgetType": "button",
+                    "actionType": "click",
+                    "appName": "BaseApp"
+                },
+                "UUID": "6380270d-73c2-4e8b-b4ca-7243a93679a7"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "_currentForm": "BaseApp/Home",
+    "timeout": 0,
+    "dataFileName": "Navigate2Micro_data",
+    "dataFileVarName": "testcaseData_1624954247968",
+    "datasetName": "dataset",
+    "appName": "MicroApp2",
+    "usedBy": [
+        "MobileSuite.js"
+    ]
+}

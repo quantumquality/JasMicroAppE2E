@@ -1,0 +1,64 @@
+{
+    "testCaseName": "Navigate2MicroApp",
+    "testSuiteName": "Test Cases",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Form2.Button0i3037888b6874a",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "22843d03-7033-f541-8994-297a849261b6",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "Form2.Button0i3037888b6874a"
+                    },
+                    "appName": "BaseApp"
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "Form2.Button0i3037888b6874a",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "Form2.Button0i3037888b6874a",
+                    "widgetType": "button",
+                    "actionType": "click",
+                    "appName": "BaseApp"
+                },
+                "UUID": "9b716f4e-71e0-4cdc-8761-b2b71c60c574"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "_currentForm": "BaseApp/Form2",
+    "timeout": 0,
+    "dataFileName": "Navigate2MicroApp_data",
+    "dataFileVarName": "testcaseData_1624952295961",
+    "datasetName": "dataset",
+    "appName": "MicroApp2",
+    "usedBy": [
+        "WebSuite.js"
+    ]
+}

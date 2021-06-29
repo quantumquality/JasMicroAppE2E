@@ -1,0 +1,15 @@
+{
+    "testCaseName": "Webtest",
+    "testSuiteName": "Test Cases",
+    "channelName": "Desktop",
+    "_currentForm": "MicroApp2/Form1",
+    "timeout": 0,
+    "dataFileName": "Webtest_data",
+    "dataFileVarName": "testcaseData_1624629729043",
+    "datasetName": "dataset",
+    "appName": "MicroApp2",
+    "usedBy": [
+        "WebSuite.js"
+    ],
+    "userCode": true
+}

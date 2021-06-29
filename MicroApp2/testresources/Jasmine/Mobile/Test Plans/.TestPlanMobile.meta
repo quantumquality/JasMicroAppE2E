@@ -1,0 +1,7 @@
+{
+    "groupName": "Test Plans",
+    "testRunnerName": "TestPlanMobile",
+    "testSuiteInfo": [
+        "MobileSuite.js"
+    ]
+}

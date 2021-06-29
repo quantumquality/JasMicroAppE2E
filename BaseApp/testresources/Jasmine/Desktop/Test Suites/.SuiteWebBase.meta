@@ -1,0 +1,14 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "SuiteWebBase",
+    "testCaseInfo": [
+        {
+            "testcaseName": "BaseTestWeb.js",
+            "selectedDataset": "dataset"
+        }
+    ],
+    "appName": "BaseApp",
+    "usedBy": [
+        "TestPlanBaseWeb.js"
+    ]
+}

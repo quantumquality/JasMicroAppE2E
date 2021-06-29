@@ -1,0 +1,22 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "MobileSuite",
+    "testCaseInfo": [
+        {
+            "testcaseName": "Navigate2Micro.js",
+            "selectedDataset": "dataset"
+        },
+        {
+            "testcaseName": "MobileTest1.js",
+            "selectedDataset": "dataset"
+        },
+        {
+            "testcaseName": "MobileTest2.js",
+            "selectedDataset": "dataset"
+        }
+    ],
+    "appName": "MicroApp2",
+    "usedBy": [
+        "TestPlanMobile.js"
+    ]
+}

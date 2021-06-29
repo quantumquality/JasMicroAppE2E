@@ -1,0 +1,24 @@
+{
+    "AS_Button_ec4b365c25d34cdfafdbc319eaef4240": {
+        "id": "AS_Button_ec4b365c25d34cdfafdbc319eaef4240",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "App2Form",
+            "type": "forms",
+            "platform": null,
+            "KUID": "hfa914f1566641f997dfe677d5cd45bf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_c50d97345def45c88aa16c5387ff7547",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lbl2.text=this.view.TextField0d325bf513b3948.text;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

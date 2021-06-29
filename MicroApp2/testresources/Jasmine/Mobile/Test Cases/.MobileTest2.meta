@@ -1,0 +1,128 @@
+{
+    "testCaseName": "MobileTest2",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "usedBy": [
+        "MobileSuite.js"
+    ],
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "App2Form.TextField0d325bf513b3948",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "4512c5fd-5314-bdb6-8142-803b4c2b987e",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "App2Form.TextField0d325bf513b3948"
+                    },
+                    "appName": "MicroApp2"
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Type Text",
+            "actionIconClassName": "assets/widget_icons/text_box.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetext_box.svg",
+            "entity": "App2Form.TextField0d325bf513b3948",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "App2Form.TextField0d325bf513b3948",
+                    "widgetType": "textbox",
+                    "actionType": "enterText",
+                    "metadata": {
+                        "dataVariable": "TextField0d325bf513b3948"
+                    },
+                    "appName": "MicroApp2"
+                },
+                "UUID": "a92a1264-6a72-47ba-8d19-4ac41ee01105",
+                "_cached": true
+            },
+            "codeNotReady": false,
+            "_cached": true,
+            "metaEditable": true,
+            "dataVariable": "TextField0d325bf513b3948"
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "App2Form.Button0cd0cc6fd9b3046",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "App2Form.Button0cd0cc6fd9b3046",
+                    "widgetType": "button",
+                    "actionType": "click",
+                    "appName": "MicroApp2"
+                },
+                "UUID": "e93ec274-d9fb-485d-9599-14c84b446e37"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Assert",
+            "actionIconClassName": "assets/widget_icons/assert.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeassert.svg",
+            "entity": "App2Form.lbl2",
+            "metaEditable": true,
+            "dispMeta": {
+                "prop": "text"
+            },
+            "dataVariable": "Button0cd0cc6fd9b3046",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToWidgetEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "c2268b32-e501-ceb0-6dac-a1111129fa72",
+                "messageType": "Assert",
+                "messageData": {
+                    "widgetType": "Assert",
+                    "metadata": {
+                        "assertType": "toEqual",
+                        "assertOnElement": "App2Form.lbl2",
+                        "assertOnProperty": "text",
+                        "negationEnabled": false,
+                        "dataVariable": "Button0cd0cc6fd9b3046"
+                    },
+                    "appName": "MicroApp2",
+                    "widgetPath": "App2Form.lbl2"
+                }
+            },
+            "codeNotReady": false,
+            "stepError": false
+        }
+    ],
+    "_currentForm": "MicroApp2/Form1",
+    "timeout": 0,
+    "dataFileName": "MobileTest2_data",
+    "dataFileVarName": "testcaseData_1624631998354",
+    "datasetName": "dataset",
+    "appName": "MicroApp2"
+}

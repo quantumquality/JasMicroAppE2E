@@ -1,0 +1,38 @@
+[
+    {
+        "testName": "sampleTest",
+        "appName": "App1",
+        "result": "jasmineReport25-06-2021_17_55_16.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "25-06-2021 17:55:16",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Desktop",
+        "crashed": false
+    },
+    {
+        "testName": "sampleTest",
+        "appName": "App1",
+        "result": "jasmineReport25-06-2021_17_54_35.html",
+        "passedCount": 0,
+        "failedCount": 1,
+        "pendingCount": 0,
+        "timeStamp": "25-06-2021 17:54:35",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Desktop",
+        "crashed": false
+    },
+    {
+        "testName": "sampleTest",
+        "appName": "App1",
+        "result": "jasmineReport25-06-2021_17_13_20.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "25-06-2021 17:13:20",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    }
+]

@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "182dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2ecef1fa5c54f4c8dfa873c649a51b9",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "148dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sfccc8952b05470a88305370447679b0",
+    "id": "Button0a9f3af19913d44",
+    "ide_onClick": "AS_Button_i4bbbdb7cc2e4bd8a2e1092d03f0357e",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f8efd7eb3c514021a8e2e573bd08a570",
+    "name": "kony.ui.Button",
+    "parent": "Form2",
+    "pf": "Form2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

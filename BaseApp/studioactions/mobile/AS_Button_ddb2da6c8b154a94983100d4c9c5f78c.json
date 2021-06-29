@@ -1,0 +1,29 @@
+{
+    "AS_Button_ddb2da6c8b154a94983100d4c9c5f78c": {
+        "id": "AS_Button_ddb2da6c8b154a94983100d4c9c5f78c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "acd6cdad6ef448c8952603476d011fcf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__b16414d92b064a59bc83eca35affceca",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "App2Form",
+            "formKUID": "hfa914f1566641f997dfe677d5cd45bf",
+            "projectName": "MicroApp2",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

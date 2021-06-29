@@ -1,0 +1,176 @@
+{
+    "testCaseName": "Test2Web",
+    "testSuiteName": "Test Cases",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Form2.Button0a9f3af19913d44",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "57782808-3f00-aff4-d220-edd054b1c236",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "Form2.Button0a9f3af19913d44"
+                    },
+                    "appName": "BaseApp"
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "Form2.Button0a9f3af19913d44",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "Form2.Button0a9f3af19913d44",
+                    "widgetType": "button",
+                    "actionType": "click",
+                    "appName": "BaseApp"
+                },
+                "UUID": "2643b198-19df-4182-ad08-079248cf33ec"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Form1.tb2",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "1c23866f-4fcd-19c3-0e0c-f6d884bb3122",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "Form1.tb2"
+                    },
+                    "appName": "App1"
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Type Text",
+            "actionIconClassName": "assets/widget_icons/text_box.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetext_box.svg",
+            "entity": "Form1.tb2",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "Form1.tb2",
+                    "widgetType": "textbox",
+                    "actionType": "enterText",
+                    "metadata": {
+                        "dataVariable": "tb2"
+                    },
+                    "appName": "App1"
+                },
+                "UUID": "fe20035a-dba8-410e-8a41-c8a3c4da37c3",
+                "_cached": true
+            },
+            "codeNotReady": false,
+            "_cached": true,
+            "metaEditable": true,
+            "dataVariable": "tb2"
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "Form1.Button0a1e90728a82c40",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "Form1.Button0a1e90728a82c40",
+                    "widgetType": "button",
+                    "actionType": "click",
+                    "appName": "App1"
+                },
+                "UUID": "ee7a2276-2e1f-4db8-8509-acb2a743103e"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Assert",
+            "actionIconClassName": "assets/widget_icons/assert.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeassert.svg",
+            "entity": "Form1.lbl1",
+            "metaEditable": true,
+            "dispMeta": {
+                "prop": "text"
+            },
+            "dataVariable": "Button0a1e90728a82c40",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToWidgetEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "e67fd921-364b-abc7-3955-3d6e56a7698a",
+                "messageType": "Assert",
+                "messageData": {
+                    "widgetType": "Assert",
+                    "metadata": {
+                        "assertType": "toEqual",
+                        "assertOnElement": "Form1.lbl1",
+                        "assertOnProperty": "text",
+                        "negationEnabled": false,
+                        "dataVariable": "Button0a1e90728a82c40"
+                    },
+                    "appName": "App1",
+                    "widgetPath": "Form1.lbl1"
+                }
+            },
+            "codeNotReady": false,
+            "stepError": false
+        }
+    ],
+    "_currentForm": "App1/Form1",
+    "timeout": 0,
+    "dataFileName": "Test2Web_data",
+    "dataFileVarName": "testcaseData_1624871913477",
+    "datasetName": "dataset",
+    "appName": "App1",
+    "usedBy": []
+}

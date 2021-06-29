@@ -1,0 +1,64 @@
+{
+    "testCaseName": "BaseTestWeb",
+    "testSuiteName": "Test Cases",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Form2.Button0a9f3af19913d44",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "c9d21129-4cc3-ba39-798a-50bad9539518",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "Form2.Button0a9f3af19913d44"
+                    },
+                    "appName": "BaseApp"
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "Form2.Button0a9f3af19913d44",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "Form2.Button0a9f3af19913d44",
+                    "widgetType": "button",
+                    "actionType": "click",
+                    "appName": "BaseApp"
+                },
+                "UUID": "08e255ba-7cdb-45a1-88bb-47d697244a70"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "_currentForm": "BaseApp/Form2",
+    "timeout": 0,
+    "dataFileName": "BaseTestWeb_data",
+    "dataFileVarName": "testcaseData_1624871688623",
+    "datasetName": "dataset",
+    "appName": "BaseApp",
+    "usedBy": [
+        "SuiteWebBase.js"
+    ]
+}
