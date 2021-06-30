@@ -1,62 +1,26 @@
 [
     {
-        "testName": "WebSuite",
+        "testName": "MobileSuite",
         "appName": "MicroApp2",
-        "result": "jasmineReport29-06-2021_13_09_52.html",
+        "result": "jasmineReport30-06-2021_18_08_57.html",
         "passedCount": 1,
         "failedCount": 0,
         "pendingCount": 0,
-        "timeStamp": "29-06-2021 13:09:52",
+        "timeStamp": "30-06-2021 18:08:57",
         "runnerType": "TestSuiteRunner",
-        "channelName": "Desktop",
-        "crashed": false
-    },
-    {
-        "testName": "Mobilebasetest",
-        "appName": "BaseApp",
-        "result": "jasmineReport28-06-2021_14_56_11.html",
-        "passedCount": 1,
-        "failedCount": 0,
-        "pendingCount": 0,
-        "timeStamp": "28-06-2021 14:56:11",
-        "runnerType": "TestCaseRecorder",
         "channelName": "Mobile",
         "crashed": false
     },
     {
-        "testName": "Test2Web",
-        "appName": "App1",
-        "result": "jasmineReport28-06-2021_14_50_22.html",
-        "passedCount": 1,
-        "failedCount": 0,
-        "pendingCount": 0,
-        "timeStamp": "28-06-2021 14:50:22",
-        "runnerType": "TestCaseRecorder",
-        "channelName": "Desktop",
-        "crashed": false
-    },
-    {
-        "testName": "BaseTestWeb",
+        "testName": "SuiteMobilebase",
         "appName": "BaseApp",
-        "result": "jasmineReport28-06-2021_14_46_02.html",
+        "result": "jasmineReport30-06-2021_18_08_21.html",
         "passedCount": 1,
         "failedCount": 0,
         "pendingCount": 0,
-        "timeStamp": "28-06-2021 14:46:02",
-        "runnerType": "TestCaseRecorder",
-        "channelName": "Desktop",
-        "crashed": false
-    },
-    {
-        "testName": "BaseTest1",
-        "appName": "BaseApp",
-        "result": "jasmineReport28-06-2021_14_28_12.html",
-        "passedCount": 1,
-        "failedCount": 0,
-        "pendingCount": 0,
-        "timeStamp": "28-06-2021 14:28:12",
-        "runnerType": "TestCaseRecorder",
-        "channelName": "Desktop",
+        "timeStamp": "30-06-2021 18:08:21",
+        "runnerType": "TestSuiteRunner",
+        "channelName": "Mobile",
         "crashed": false
     }
 ]

@@ -2,11 +2,76 @@
     "models": {
         "mobile": {
             "class": "GraphLinksModel",
-            "linkDataArray": [],
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__b16414d92b064a59bc83eca35affceca",
+                    "actionSequenceId": "AS_Button_ddb2da6c8b154a94983100d4c9c5f78c",
+                    "beautifiedPath": "Home > Button0jb8aceabbbf546 > onClick",
+                    "evt": "ide_onClick",
+                    "from": "acd6cdad6ef448c8952603476d011fcf",
+                    "isPSP": false,
+                    "points": [
+                        177.6,
+                        188.3544921875,
+                        187.6,
+                        188.3544921875,
+                        187.6,
+                        268.3544921875,
+                        178,
+                        268.3544921875,
+                        178,
+                        348.3544921875,
+                        188,
+                        348.3544921875
+                    ],
+                    "to": "hfa914f1566641f997dfe677d5cd45bf",
+                    "widgetKUID": "ede93ccc0a95451d8b74a96210fcc1b5"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM__f8b2a23d1b654a7f9222775d5ff08fd8",
+                    "actionSequenceId": "AS_Button_g77a66d6f9354eb89fedc14dd527337c",
+                    "beautifiedPath": "Home > Button0deae6ed2d64e48 > onClick",
+                    "evt": "ide_onClick",
+                    "from": "acd6cdad6ef448c8952603476d011fcf",
+                    "isPSP": false,
+                    "points": [
+                        92.8,
+                        351.95449218749997,
+                        92.8,
+                        361.95449218749997,
+                        92.8,
+                        361.95449218749997,
+                        92.8,
+                        361.95449218749997,
+                        92.8,
+                        614.7544921875,
+                        92.8,
+                        624.7544921875
+                    ],
+                    "to": "c4e78aa6d68445078499040d9dbffc7a",
+                    "widgetKUID": "df652fbb41ad4ac1924bf1057dd228ff"
+                }
+            ],
             "nodeDataArray": [
                 {
-                    "formKUID": "acd6cdad6ef448c8952603476d011fcf",
+                    "formKUID": "hfa914f1566641f997dfe677d5cd45bf",
+                    "formName": "App2Form",
+                    "isStartupForm": false,
+                    "key": "hfa914f1566641f997dfe677d5cd45bf",
+                    "loc": "188 184.7544921875",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "c4e78aa6d68445078499040d9dbffc7a",
                     "formName": "Form1",
+                    "isStartupForm": false,
+                    "key": "c4e78aa6d68445078499040d9dbffc7a",
+                    "loc": "8 624.7544921875",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "acd6cdad6ef448c8952603476d011fcf",
+                    "formName": "Home",
                     "isStartupForm": true,
                     "key": "acd6cdad6ef448c8952603476d011fcf",
                     "loc": "8 24.7544921875",
