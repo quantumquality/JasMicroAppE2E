@@ -6,11 +6,11 @@
             "nodeDataArray": [
                 {
                     "formKUID": "hfa914f1566641f997dfe677d5cd45bf",
-                    "formName": "Form1",
+                    "formName": "App2Form",
                     "isStartupForm": true,
                     "key": "hfa914f1566641f997dfe677d5cd45bf",
                     "loc": "8 24.7544921875",
-                    "thumbnailURL": null
+                    "thumbnailURL": "/assets/MicroApp2/forms/mobile/App2Form.sm/.thumbs/default.jpeg"
                 }
             ]
         }

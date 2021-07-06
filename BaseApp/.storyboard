@@ -59,7 +59,7 @@
                     "isStartupForm": false,
                     "key": "hfa914f1566641f997dfe677d5cd45bf",
                     "loc": "188 184.7544921875",
-                    "thumbnailURL": null
+                    "thumbnailURL": "/assets/MicroApp2/forms/mobile/App2Form.sm/.thumbs/default.jpeg"
                 },
                 {
                     "formKUID": "c4e78aa6d68445078499040d9dbffc7a",
@@ -75,7 +75,7 @@
                     "isStartupForm": true,
                     "key": "acd6cdad6ef448c8952603476d011fcf",
                     "loc": "8 24.7544921875",
-                    "thumbnailURL": null
+                    "thumbnailURL": "/assets/BaseApp/forms/mobile/Home.sm/.thumbs/default.jpeg"
                 }
             ]
         }

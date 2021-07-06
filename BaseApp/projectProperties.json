@@ -379,6 +379,14 @@
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
     "keyStorePassword": "",
+    "kfAppInfo": {
+        "3607e5f3-f8b8-482f-8032-ee3024b18ee1": {
+            "appName": "BaseAppE2E",
+            "baseId": "1db024f8-102b-4466-8ee2-34170a63a2be",
+            "id": "1db024f8-102b-4466-8ee2-34170a63a2be",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "9.3.0",
     "lastmodifiedtime": "1624624418114",
     "location": "false",
@@ -726,6 +734,7 @@
     "tcnoscriptmessage": "To use this site, first enable your browser's JavaScript support and then refresh this page.",
     "tcphoneformatindicator": "false",
     "tcrequiresGPSfuctionality": "false",
+    "test.automation.server.url": "http://192.168.0.112:9989/testresources/BaseApp/",
     "thinwebcontextkey": "",
     "tileUpdateRecurrenceKey": "",
     "urlschemanameorder": "",

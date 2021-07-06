@@ -1,0 +1,8 @@
+{
+  "filename": "BaseApp.zip",
+  "channels": "responsive_web",
+  "upgradable": false,
+  "displayname": "BaseApp",
+  "description": "Binary for BaseApp",
+  "version": "1.0.0"
+}
